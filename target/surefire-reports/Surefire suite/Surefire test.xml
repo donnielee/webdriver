@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="prismalo-VirtualBox" name="nl.berg.packt.webdriver.TestIT" tests="1" failures="0" timestamp="28 Mar 2017 07:26:35 GMT" time="4.143" errors="0">
+  <testcase name="getLoginPageWithHTMLUNIT" time="4.134" classname="nl.berg.packt.webdriver.TestIT"/>
+</testsuite>
